@@ -77,12 +77,21 @@
 
   .content {
     display: flex;
-    width: 80vw;
+    width: 90vw;
     margin: 10px auto;
-    height: 100vh;
+    height: 70vh;
   }
   .title {
     display: flex;
     flex-direction: column;
+    width: 50%;
+  }
+
+  .img-session{
+    height: 100% ;
+  }
+
+  .title h2{
+    width: 60%;
   }
 }
